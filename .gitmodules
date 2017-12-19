@@ -1,166 +1,168 @@
 [submodule "addons-manager"]
 	path = addons-manager
-	url = ssh://git@github.com/exoplatform/addons-manager.git
+	url = git@github.com:exoplatform/addons-manager
 	branch = develop
 [submodule "calendar"]
 	path = calendar
-	url = ssh://git@github.com/exoplatform/calendar
+	url = git@github.com:exoplatform/calendar
   branch = develop
 [submodule "cf-parent"]
 	path = cf-parent
-	url = ssh://git@github.com/exoplatform/cf-parent
+	url = git@github.com:exoplatform/cf-parent
 	branch = develop
 [submodule "docs-style"]
 	path = docs-style
-	url = ssh://git@github.com/exoplatform/docs-style
+	url = git@github.com:exoplatform/docs-style
 	branch = develop
 [submodule "commons"]
 	path = commons
-	url = ssh://git@github.com/exoplatform/commons
+	url = git@github.com:exoplatform/commons
 	branch = develop
 [submodule "core"]
 	path = core
-	url = ssh://git@github.com/exoplatform/core
+	url = git@github.com:exoplatform/core
 	branch = develop
 [submodule "gatein-dep"]
 	path = gatein-dep
-	url = ssh://git@github.com/exoplatform/gatein-dep
+	url = git@github.com:exoplatform/gatein-dep
 	branch = develop
 [submodule "forum"]
 	path = forum
-	url = ssh://git@github.com/exoplatform/forum
+	url = git@github.com:exoplatform/forum
 	branch = develop
 [submodule "gatein-pc"]
 	path = gatein-pc
-	url = ssh://git@github.com/exoplatform/gatein-pc
+	url = git@github.com:exoplatform/gatein-pc
 	branch = develop
 [submodule "gatein-wci"]
 	path = gatein-wci
-	url = ssh://git@github.com/exoplatform/gatein-wci
+	url = git@github.com:exoplatform/gatein-wci
 	branch = develop
 [submodule "integration"]
 	path = integration
-	url = ssh://git@github.com/exoexoplatformdev/integration
+	url = git@github.com:exoplatform/integration
 	branch = develop
 [submodule "gatein-sso"]
 	path = gatein-sso
-	url = ssh://git@github.com/exoplatform/gatein-sso
+	url = git@github.com:exoplatform/gatein-sso
 	branch = develop
 [submodule "jcr"]
 	path = jcr
-	url = ssh://git@github.com/exoplatform/jcr
+	url = git@github.com:exoplatform/jcr
 	branch = develop
 [submodule "gatein-portal"]
 	path = gatein-portal
-	url = ssh://git@github.com/exoplatform/gatein-portal
+	url = git@github.com:exoplatform/gatein-portal
 	branch = develop
-[submodule "juzu"]
-	path = juzu
-	url = ssh://git@github.com/juzu/juzu
-	branch = master
 [submodule "ecms"]
 	path = ecms
-	url = ssh://git@github.com/exoplatform/ecms
+	url = git@github.com:exoplatform/ecms
 	branch = develop
 [submodule "kernel"]
 	path = kernel
-	url = ssh://git@github.com/exoplatform/kernel
+	url = git@github.com:exoplatform/kernel
 	branch = develop
 [submodule "maven-depmgt-pom"]
 	path = maven-depmgt-pom
-	url = ssh://git@github.com/exoplatform/maven-depmgt-pom
+	url = git@github.com:exoplatform/maven-depmgt-pom
 	branch = develop
 [submodule "platform-private-distributions"]
 	path = platform-private-distributions
-	url = ssh://git@github.com/exoplatform/platform-private-distributions
+	url = git@github.com:exoplatform/platform-private-distributions
 	branch = develop
 [submodule "platform-private-trial-distributions"]
 	path = platform-private-trial-distributions
-	url = ssh://git@github.com/exoplatform/platform-private-trial-distributions
+	url = git@github.com:exoplatform/platform-private-trial-distributions
 	branch = develop
 [submodule "platform-public-distributions"]
 	path = platform-public-distributions
-	url = ssh://git@github.com/exoplatform/platform-public-distributions
+	url = git@github.com:exoplatform/platform-public-distributions
 	branch = develop
 [submodule "platform-ui"]
 	path = platform-ui
-	url = ssh://git@github.com/exoplatform/platform-ui
+	url = git@github.com:exoplatform/platform-ui
 	branch = develop
 [submodule "social"]
 	path = social
-	url = ssh://git@github.com/exoplatform/social
+	url = git@github.com:exoplatform/social
 	branch = develop
 [submodule "ws"]
 	path = ws
-	url = ssh://git@github.com/exoplatform/ws
+	url = git@github.com:exoplatform/ws
 	branch = develop
 [submodule "wiki"]
 	path = wiki
-	url = ssh://git@github.com/exoplatform/wiki
+	url = git@github.com:exoplatform/wiki
 	branch = develop
 [submodule "platform"]
 	path = platform
-	url = ssh://git@github.com/exoplatform/platform
+	url = git@github.com:exoplatform/platform
 	branch = develop
 [submodule "answers"]
 	path = answers
-	url = ssh://git@github.com/exoplatform/answers
+	url = git@github.com:exoplatform/answers
 	branch = develop
 [submodule "cas-addon"]
 	path = cas-addon
-	url = ssh://git@github.com/exoplatform/cas-addon
+	url = git@github.com:exoplatform/cas-addon
 	branch = develop
 [submodule "chat-application"]
 	path = chat-application
-	url = ssh://git@github.com/exoplatform/chat-application
+	url = git@github.com:exoplatform/chat-application
 	branch = develop
 [submodule "cmis-addon"]
 	path = cmis-addon
-	url = ssh://git@github.com/exoplatform/cmis-addon
+	url = git@github.com:exoplatform/cmis-addon
 	branch = develop
 [submodule "crash-addon"]
 	path = crash-addon
-	url = ssh://git@github.com/exoplatform/crash-addon
+	url = git@github.com:exoplatform/crash-addon
 	branch = develop
 [submodule "exo-es-embedded"]
 	path = exo-es-embedded
-	url = ssh://git@github.com/exoplatform/exo-es-embedded
+	url = git@github.com:exoplatform/exo-es-embedded
 	branch = develop
 [submodule "openam-addon"]
 	path = openam-addon
-	url = ssh://git@github.com/exoplatform/openam-addon
+	url = git@github.com:exoplatform/openam-addon
 	branch = develop
 [submodule "saml2-addon"]
 	path = saml2-addon
-	url = ssh://git@github.com/exoplatform/saml2-addon
+	url = git@github.com:exoplatform/saml2-addon
 	branch = develop
 [submodule "spnego-addon"]
 	path = spnego-addon
-	url = ssh://git@github.com/exoplatform/spnego-addon
+	url = git@github.com:exoplatform/spnego-addon
 	branch = develop
 [submodule "wcm-template-pack"]
 	path = wcm-template-pack
-	url = ssh://git@github.com/exoplatform/wcm-template-pack
+	url = git@github.com:exoplatform/wcm-template-pack
 	branch = develop
 [submodule "task"]
 	path = task
-	url = ssh://git@github.com/exoplatform/task
+	url = git@github.com:exoplatform/task
 	branch = develop
 [submodule "remote-edit"]
 	path = remote-edit
-	url = ssh://git@github.com/exoplatform/remote-edit
+	url = git@github.com:exoplatform/remote-edit
 	branch = develop
 [submodule "enterprise-skin"]
 	path = enterprise-skin
-	url = ssh://git@github.com/exoplatform/enterprise-skin
+	url = git@github.com:exoplatform/enterprise-skin
 	branch = develop
 [submodule "web-conferencing"]
 	path = web-conferencing
-	url = ssh://git@github.com/exoplatform/web-conferencing
+	url = git@github.com:exoplatform/web-conferencing
 	branch = develop
 [submodule "addons-parent-pom"]
 	path = addons-parent-pom
-	url = ssh://git@github.com/exo-addons/addons-parent-pom
+	url = ssh://git@github.com:exo-addons/addons-parent-pom
 	branch = develop
 
 
+[submodule "juzu"]
+	path = juzu
+	url = git@github.com:juzu/juzu
+[submodule "chromattic"]
+	path = chromattic
+	url = git@github.com:exoplatform/chromattic.git
