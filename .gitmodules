@@ -156,7 +156,7 @@
 	branch = develop
 [submodule "addons-parent-pom"]
 	path = addons-parent-pom
-	url = ssh://git@github.com:exo-addons/addons-parent-pom
+	url = git@github.com:exo-addons/addons-parent-pom
 	branch = develop
 
 
