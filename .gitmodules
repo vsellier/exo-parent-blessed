@@ -166,3 +166,6 @@
 [submodule "chromattic"]
 	path = chromattic
 	url = git@github.com:exoplatform/chromattic.git
+[submodule "push-notifications"]
+	path = push-notifications
+	url = git@github.com:exoplatform/push-notifications
