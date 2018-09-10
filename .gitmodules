@@ -169,3 +169,6 @@
 [submodule "push-notifications"]
 	path = push-notifications
 	url = git@github.com:exoplatform/push-notifications
+[submodule "maven-parent-pom"]
+	path = maven-parent-pom
+	url = git@github.com:exoplatform/maven-parent-pom.git
