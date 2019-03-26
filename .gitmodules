@@ -172,3 +172,6 @@
 [submodule "maven-parent-pom"]
 	path = maven-parent-pom
 	url = git@github.com:exoplatform/maven-parent-pom.git
+[submodule "lecko"]
+	path = lecko
+	url = git@github.com:exoplatform/lecko
