@@ -187,3 +187,6 @@
 [submodule "gamification"]
 	path = gamification
 	url = git@github.com:exoplatform/gamification
+[submodule "news"]
+	path = news
+	url = git@github.com:exoplatform/news
