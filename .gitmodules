@@ -193,3 +193,6 @@
 [submodule "onlyoffice"]
 	path = onlyoffice
 	url = git@github.com:exo-addons/onlyoffice
+[submodule "dw-homepage"]
+	path = dw-homepage
+	url = git@github.com:exo-addons/dw-homepage
