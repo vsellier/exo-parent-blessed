@@ -192,7 +192,7 @@
 	url = git@github.com:exoplatform/news
 [submodule "onlyoffice"]
 	path = onlyoffice
-	url = git@github.com:exo-addons/onlyoffice
+	url = git@github.com:exoplatform/onlyoffice
 [submodule "digital-workplace"]
 	path = digital-workplace
 	url = git@github.com:exoplatform/digital-workplace
